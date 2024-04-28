@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.logoImg {
+  height: 450px;
+  width: 450px;
+  padding: 20px;
+}
+.mainCon {
+  text-align: center;
+  font-family: breeserif;
+  font-size: 33px;
+}
+
+.listCon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  padding: 15px;
+}
